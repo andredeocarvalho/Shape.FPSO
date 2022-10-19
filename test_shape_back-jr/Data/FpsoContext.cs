@@ -11,6 +11,6 @@ namespace Shape.FPSO.Data
         }
 
         public DbSet<Vessel> Vessels => Set<Vessel>();
-        public DbSet<Equipment> Equipments => Set<Equipment>();
+        public DbSet<Equipment> Equipment => Set<Equipment>();
     }
 }

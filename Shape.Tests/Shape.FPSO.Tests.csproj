@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\test_shape_back-jr\Shape.FPSO.WebApi.Rest.csproj" />
+    <ProjectReference Include="..\Shape.FPSO.WebApi.Rest\Shape.FPSO.WebApi.Rest.csproj" />
   </ItemGroup>
 
 </Project>
